@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+plotly
+requests
+beautifulsoup4
+scikit-learn==1.6.1
